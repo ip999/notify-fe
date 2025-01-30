@@ -44,22 +44,4 @@
     "product_url": null,
     "locale": "to_be_set"
   },
-  {
-    "name": "4080S",
-    "api_url": "https://api.store.nvidia.com/partner/v1/feinventory?skus=NVGFT480S",
-    "api_url_us": "https://api.store.nvidia.com/partner/v1/feinventory?skus=5845716300",
-    "available": false,
-    "last_seen": null,
-    "product_url": null,
-    "locale": "to_be_set-de"
-  },
-  {
-    "name": "4070S",
-    "api_url": "https://api.store.nvidia.com/partner/v1/feinventory?skus=NVGFT470S",
-    "api_url_us": "https://api.store.nvidia.com/partner/v1/feinventory?skus=5845716400",
-    "available": false,
-    "last_seen": null,
-    "product_url": null,
-    "locale": "to_be_set"
-  }
 ]
